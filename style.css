@@ -1,0 +1,21 @@
+body
+{
+	background-color: hsl(84, 36%, 43%);
+}
+.database
+{
+	background: rgb(240, 231, 215);
+	padding: 50px; 
+	border-radius: 10px;
+}
+
+.centrer
+{
+	text-align: center;
+	text-overflow: clip;
+}
+
+.modifier
+{
+	background: #000;
+}
